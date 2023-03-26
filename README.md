@@ -2,7 +2,7 @@
 Desktop Tablet Mobile (Social media app)
 Test > responsive: 
 
-![socialdemo](https://user-images.githubusercontent.com/115532651/227812491-3fa64a1c-31de-4e24-bb89-b776d98bfa76.png)
+![socialdemo](https://user-images.githubusercontent.com/115532651/227812727-111c2877-6949-4270-b2d2-3cac2a43395d.png)
 
 Web - desktop - tablet
 https://user-images.githubusercontent.com/115532651/227811978-f930af9a-2511-41de-9e2c-c63f1971fc09.mp4
